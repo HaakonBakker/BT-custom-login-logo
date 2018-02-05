@@ -24,8 +24,8 @@ function bt_custom_login_logo() { ?>
     .login h1 a {
       background-image: url('<?php echo plugin_dir_url( __FILE__ ) . 'images/BT_Logo.png'; ?>');
       width: 250px !important;
-      height: 130px !important;
-      background-size: 250px 130px;
+      height: 250px !important;
+      background-size: 250px 250px;
       padding-bottom: 25px;
     }
 
