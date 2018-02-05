@@ -1,2 +1,2 @@
-# BT_WP_login_logo
+# BT WP login logo
 Simple Wordpress login logo
