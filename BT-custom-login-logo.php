@@ -22,7 +22,7 @@ function bt_custom_login_logo() { ?>
 
     /* Change Width and Height of Logo Image + Add Custom Image File */
     .login h1 a {
-      background-image: url('<?php echo plugin_dir_url( __FILE__ ) . 'images/godtnaboskap.png'; ?>');
+      background-image: url('<?php echo plugin_dir_url( __FILE__ ) . 'images/BT_Logo.png'; ?>');
       width: 250px !important;
       height: 130px !important;
       background-size: 250px 130px;
