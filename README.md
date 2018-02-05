@@ -1,6 +1,8 @@
 # Bakker Technologies Custom Login Logo
 This plugin changes the default login logo and adds some nice CSS for the Wordpress login page.
 
+![BT Custom Login Page](http://bakkertechnologies.com/wp-content/uploads/2018/02/BT-login-page.png)
+
 ## I want to change the image to my own
 Replace the BT_logo.png file in the images directory. If you upload a file with a different name, change that name in the main PHP file (search for BT_logo.png).
 
